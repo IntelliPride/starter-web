@@ -1,3 +1,6 @@
 this content from git web
+<<<<<<< HEAD
 removed content from line
 added new website
+=======
+>>>>>>> 6d3fe3870ff6ceed724d43fb50bd0e308d72649c
